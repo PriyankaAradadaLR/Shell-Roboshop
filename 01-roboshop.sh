@@ -1,7 +1,7 @@
 #!/bin/bash
  
 
- 
+
 SG_ID="sg-01cf16e6da2a69f8b"
 AMI_ID="ami-0220d79f3f480ecf5"
 
@@ -34,4 +34,5 @@ else
         --output text
 )
 
+fi
 done
